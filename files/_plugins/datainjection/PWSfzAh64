@@ -1,0 +1,6 @@
+Name,Status,Manufacturer,Serial number,Type,Model,Operating System - Name,Location,Components - Processor,Operating System - Version
+test1,,Red Hat,00196-141-775-891,Other,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,Intel Core i7 9xx (Nehalem Class Core i7),4.4.93-boot2docker
+test2,,Red Hat,00186-073-093-015,Other,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,Intel Core i7 9xx (Nehalem Class Core i7),4.4.93-boot2docker
+test3,,LENOVO,01806-029-146-369,Other,20378,Linux,Mumbai,Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz,4.8.0-56-generic
+test4,,"Gigabyte Technology Co., Ltd.",QW11458369RT,Desktop,H81M-S1,CentOS,Mumbai,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,7.3.1611
+test5,,Acer,9398SDWQ445,Desktop,20378,CentOS Linux release 7.0.1406 (Core),Mumbai,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,4.4.93-boot2docker

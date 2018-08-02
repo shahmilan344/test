@@ -1,0 +1,10 @@
+Name,Status,Manufacturer,Serial number,Type,Model,Operating System - Name,Location,Last update,Components - Processor,Networking - IP,Operating System - Version
+test1,,Red Hat,00196-141-775-891,Other,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,2017-11-08 11:04,Intel Core i7 9xx (Nehalem Class Core i7),192.168.2.154,4.4.93-boot2docker
+test2,,Red Hat,00186-073-093-015,Other,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,2017-11-08 11:04,Intel Core i7 9xx (Nehalem Class Core i7),172.17.0.4,4.4.93-boot2docker
+test3,,LENOVO,01806-029-146-369,Other,20378,Linux,Mumbai,2017-11-08 11:15,Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz,172.17.0.3,4.8.0-56-generic
+test4,,"Gigabyte Technology Co., Ltd.",QW11458369RT,Desktop,H81M-S1,CentOS,Mumbai,2017-11-08 11:05,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,"192.168.122.1
+192.168.2.119
+fe80::5054:ff:fea9:74bb
+fe80::5054:ff:fecc:577
+fe80::feaa:14ff:fe13:b035",7.3.1611
+test5,,Acer,9398SDWQ445,Desktop,20378,CentOS Linux release 7.0.1406 (Core),Mumbai,2017-11-08 11:06,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,,4.4.93-boot2docker

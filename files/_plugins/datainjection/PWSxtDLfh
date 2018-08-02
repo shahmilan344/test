@@ -1,0 +1,6 @@
+Name,Model,Operating System - Name,Location,Components - Processor
+test1,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,Intel Core i7 9xx (Nehalem Class Core i7)
+test2,KVM,CentOS Linux release 7.4.1708 (Core),Mumbai,Intel Core i7 9xx (Nehalem Class Core i7)
+test3,20378,Linux,Mumbai,Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
+test4,H81M-S1,CentOS,Mumbai,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz
+test5,20378,CentOS Linux release 7.0.1406 (Core),Mumbai,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz

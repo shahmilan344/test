@@ -1,0 +1,168 @@
+2018-07-02 06:51:42 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 5 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-02 09:18:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-02 09:18:43 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 4 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 5 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 5 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 5 retries remaining. Message: [GLPI #0000005] Approval - Waiting for approval test 2, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-02 09:55:37 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 3 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 4 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 4 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 2 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:33:27 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 4 retries remaining. Message: [GLPI #0000005] Approval - Waiting for approval test 2, Error: Could not instantiate mail function.
+2018-07-04 05:37:22 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI] Monitoring of automatic actions, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 3 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 3 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 1 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:38:16 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 3 retries remaining. Message: [GLPI #0000005] Approval - Waiting for approval test 2, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI] Monitoring of automatic actions, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 2 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 2 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 0 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to yazad.balsara@unotechsoft.com: [GLPI #0000005] New ticket test 2
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000005] New ticket test 2, Error: Could not instantiate mail function.
+2018-07-04 05:42:55 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 2 retries remaining. Message: [GLPI #0000005] Approval - Waiting for approval test 2, Error: Could not instantiate mail function.
+2018-07-04 05:52:54 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 0 retries remaining. Message: [GLPI #0000004] New ticket sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 05:52:54 [@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to yazad.balsara@unotechsoft.com: [GLPI #0000004] New ticket sla breach test 2
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 0 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to yazad.balsara@unotechsoft.com: [GLPI #0000003] New ticket sla brach test
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000003] New ticket sla brach test, Error: Could not instantiate mail function.
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000003] New ticket sla brach test
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to yazad.balsara@unotechsoft.com with 0 retries remaining. Message: [GLPI #0000005] Approval - Waiting for approval test 2, Error: Could not instantiate mail function.
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to yazad.balsara@unotechsoft.com: [GLPI #0000005] Approval - Waiting for approval test 2
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000004] New followup sla breach test 2, Error: Could not instantiate mail function.
+2018-07-04 06:05:36 [@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI] Monitoring of automatic actions, Error: Could not instantiate mail function.
+2018-07-17 11:15:24 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-17 12:36:34 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New ticket edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-17 12:36:34 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-17 12:36:34 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-17 13:11:00 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-17 13:11:00 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New ticket edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-17 13:11:00 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-17 17:57:54 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] Update of a ticket edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-17 18:40:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-17 18:40:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-17 18:40:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-18 12:51:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-18 12:51:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-18 12:51:53 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-18 15:31:45 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000001] New ticket sdfsdfd, Error: Could not instantiate mail function.
+2018-07-18 15:31:45 [2@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000001] New ticket sdfsdfd
+2018-07-18 15:31:45 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-18 15:31:45 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-19 12:18:49 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000003] New ticket dsfvba3rwaearavear, Error: Could not instantiate mail function.
+2018-07-19 12:18:49 [2@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000003] New ticket dsfvba3rwaearavear
+2018-07-19 12:18:49 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-19 15:57:36 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 1 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-19 16:57:35 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-19 16:57:35 [2@bb23d8d6f4ee]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] New followup edasfwvafvf
+2018-07-23 14:39:38 [2@bb23d8d6f4ee]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] Update of a ticket edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 15:30:57 [2@b4f2fe89ce05]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 16:28:33 [2@b4f2fe89ce05]
+Warning: an email was undeliverable to admsys@localhost with 4 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 16:46:08 [2@b4f2fe89ce05]
+Warning: an email was undeliverable to admsys@localhost with 3 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 17:16:38 [2@b4f2fe89ce05]
+Warning: an email was undeliverable to admsys@localhost with 2 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 18:29:45 [2@b4f2fe89ce05]
+Warning: an email was undeliverable to admsys@localhost with 0 retries remaining. Message: [GLPI #0000002] New followup edasfwvafvf, Error: Could not instantiate mail function.
+2018-07-23 18:29:45 [2@b4f2fe89ce05]
+Fatal error: giving up delivery of email to admsys@localhost: [GLPI #0000002] New followup edasfwvafvf
+2018-07-26 09:34:47 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New ticket parallel task in old processmaker, Error: Could not instantiate mail function.
+2018-07-26 09:37:03 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] Update of a ticket parallel task in old processmaker, Error: Could not instantiate mail function.
+2018-07-26 09:46:41 [7@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000004] New task parallel task in old processmaker, Error: Could not instantiate mail function.
+2018-07-26 09:59:47 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000005] Update of a ticket parallel test 2, Error: Could not instantiate mail function.
+2018-07-27 09:35:42 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000006] Update of a ticket test process 1, Error: Could not instantiate mail function.
+2018-07-27 09:38:07 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000006] New task test process 1, Error: Could not instantiate mail function.
+2018-07-27 09:40:09 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000006] Update of a task test process 1, Error: Could not instantiate mail function.
+2018-07-27 09:42:11 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000006] New task test process 1, Error: Could not instantiate mail function.
+2018-07-27 09:44:13 [6@glpi_process_plug]
+Warning: an email was undeliverable to admsys@localhost with 5 retries remaining. Message: [GLPI #0000006] New task test process 1, Error: Could not instantiate mail function.
